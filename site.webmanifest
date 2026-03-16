@@ -1,6 +1,6 @@
 {
   "name": "Favicon Pro Generator",
-  "short_name": "Favicon",
+  "short_name": "Favicon Pro",
   "icons": [
     {
       "src": "/assets/images/icon-192.png",
@@ -14,6 +14,6 @@
     }
   ],
   "theme_color": "#00020D",
-  "background_color": "#ffffff",
+  "background_color": "#00020D",
   "display": "standalone"
 }
